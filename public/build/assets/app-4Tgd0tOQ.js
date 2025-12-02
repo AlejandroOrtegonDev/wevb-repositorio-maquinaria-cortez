@@ -1,0 +1,1 @@
+import{_ as p,c as n,a,o,b as t}from"./_plugin-vue_export-helper-B9a_vKzM.js";const c={class:"app"},s={__name:"App",setup(l){return(i,e)=>(o(),n("div",c,[...e[0]||(e[0]=[a("h1",null,"Bienvenido a Laravel + Vue",-1),a("p",null,"Tu aplicación está funcionando correctamente.",-1)])]))}},r=p(s,[["__scopeId","data-v-13881c6b"]]),_=t(r);_.mount("#app");

@@ -1,0 +1,115 @@
+{
+  "__plugin-vue_export-helper-B9a_vKzM.js": {
+    "file": "assets/_plugin-vue_export-helper-B9a_vKzM.js",
+    "name": "_plugin-vue_export-helper"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-Ct4X4bFU.css",
+    "src": "resources/css/app.css",
+    "isEntry": true,
+    "name": "app",
+    "names": [
+      "app.css"
+    ]
+  },
+  "resources/css/landing.css": {
+    "file": "assets/landing-BJ66fyAU.css",
+    "src": "resources/css/landing.css",
+    "isEntry": true,
+    "name": "landing",
+    "names": [
+      "landing.css"
+    ]
+  },
+  "resources/img/Manipulador-telescópico.png": {
+    "file": "assets/Manipulador-telescópico-DZ9TWDhi.png",
+    "src": "resources/img/Manipulador-telescópico.png"
+  },
+  "resources/img/PlataformaElevadora.png": {
+    "file": "assets/PlataformaElevadora-F8F0K5nJ.png",
+    "src": "resources/img/PlataformaElevadora.png"
+  },
+  "resources/img/Retroexcavadora.png": {
+    "file": "assets/Retroexcavadora-5n3kY7F2.png",
+    "src": "resources/img/Retroexcavadora.png"
+  },
+  "resources/img/image (2).png": {
+    "file": "assets/image (2)-B162E0Fs.png",
+    "src": "resources/img/image (2).png"
+  },
+  "resources/img/logo.png": {
+    "file": "assets/logo-DBxSRVW7.png",
+    "src": "resources/img/logo.png"
+  },
+  "resources/img/mainlift.png": {
+    "file": "assets/mainlift-DTME_Mfk.png",
+    "src": "resources/img/mainlift.png"
+  },
+  "resources/img/maquinaria/Bobcat.png": {
+    "file": "assets/Bobcat-DrTvmHjG.png",
+    "src": "resources/img/maquinaria/Bobcat.png"
+  },
+  "resources/img/maquinaria/Skyjack.png": {
+    "file": "assets/Skyjack-D3VORydQ.png",
+    "src": "resources/img/maquinaria/Skyjack.png"
+  },
+  "resources/img/maquinaria/cat.png": {
+    "file": "assets/cat-C5dFgw7L.png",
+    "src": "resources/img/maquinaria/cat.png"
+  },
+  "resources/img/maquinaria/genie.png": {
+    "file": "assets/genie-BX5iAkQ4.png",
+    "src": "resources/img/maquinaria/genie.png"
+  },
+  "resources/img/maquinaria/jlg.png": {
+    "file": "assets/jlg-p7uQL87-.png",
+    "src": "resources/img/maquinaria/jlg.png"
+  },
+  "resources/img/maquinaria/manitou.png": {
+    "file": "assets/manitou-B8d0Q4b8.png",
+    "src": "resources/img/maquinaria/manitou.png"
+  },
+  "resources/img/miniretroexcavador.png": {
+    "file": "assets/miniretroexcavador-CVogV_f1.png",
+    "src": "resources/img/miniretroexcavador.png"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-4Tgd0tOQ.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "imports": [
+      "__plugin-vue_export-helper-B9a_vKzM.js"
+    ],
+    "css": [
+      "assets/app-BIgQWyO6.css"
+    ]
+  },
+  "resources/js/landing.js": {
+    "file": "assets/landing-RLC2yoh3.js",
+    "name": "landing",
+    "src": "resources/js/landing.js",
+    "isEntry": true,
+    "imports": [
+      "__plugin-vue_export-helper-B9a_vKzM.js"
+    ],
+    "css": [
+      "assets/landing-Ch0ji4ud.css"
+    ],
+    "assets": [
+      "assets/logo-DBxSRVW7.png",
+      "assets/image (2)-B162E0Fs.png",
+      "assets/mainlift-DTME_Mfk.png",
+      "assets/miniretroexcavador-CVogV_f1.png",
+      "assets/Retroexcavadora-5n3kY7F2.png",
+      "assets/Manipulador-telescópico-DZ9TWDhi.png",
+      "assets/PlataformaElevadora-F8F0K5nJ.png",
+      "assets/jlg-p7uQL87-.png",
+      "assets/cat-C5dFgw7L.png",
+      "assets/genie-BX5iAkQ4.png",
+      "assets/Skyjack-D3VORydQ.png",
+      "assets/manitou-B8d0Q4b8.png",
+      "assets/Bobcat-DrTvmHjG.png"
+    ]
+  }
+}
